@@ -9,7 +9,7 @@
 
 </br>
 
-![Size](https://img.shields.io/github/repo-size/Nalinkumar2002/caravel_avsdvco_1v8_sky130?color=success)
+![Size](https://img.shields.io/github/repo-size/Nalinkumar2002/caravel_avsdvco_1v8_sky130?color=red)
 ![Last Commit](https://img.shields.io/github/last-commit/Nalinkumar2002/caravel_avsdvco_1v8_sky130?color=green)
 ![license](https://img.shields.io/github/license/Nalinkumar2002/caravel_avsdvco_1v8_sky130?color=blue)
 
